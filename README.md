@@ -1,2 +1,2 @@
 # nodejshelpers
-Simple wrappers for data types of node js
+Simple wrappers for node js
